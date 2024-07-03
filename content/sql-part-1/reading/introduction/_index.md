@@ -5,7 +5,7 @@ draft = false
 weight = 1
 +++
 
-So far, we have used spreadsheets and DataFrames to hold data. However, both of these are limited in how much information they can store.
+So far, we have used spreadsheets to hold data. However, these are limited in how much information they can store.
 This is where a relational database comes in.
 
 **Relational databases** store data in tables, which are connected to each other in a variety of different ways.
